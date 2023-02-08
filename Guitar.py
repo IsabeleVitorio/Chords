@@ -69,7 +69,7 @@ def AskPlayer():
   
   
   Input 2 needs to be the same length as input 1. So if there is 
-  no song in that part, just let it empty
+  no song in that part, just let it empty.
   
   I, Love, , You
   """
